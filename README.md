@@ -11,17 +11,18 @@ I am responsible for analyzing and overseeing projects, providing support to tea
 ## Technology Experience
 I have experience with the following technologies:
 
-<img src="https://img.icons8.com/color/48/python--v1.png" width="50" height="auto">
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="50" height="auto">
-<img src="https://img.icons8.com/fluency/48/docker.png" width="50" height="auto">
-<img src="https://img.icons8.com/color/48/jenkins.png" width="50" height="auto">
-<img src="https://img.icons8.com/color/48/git.png" width="50" height="auto">
-<img src="https://img.icons8.com/glyph-neue/64/github.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/color/48/kubernetes.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/ios-filled/50/sql.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/color/48/oracle-logo.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/fluency/48/confluence.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/color/48/trello.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/color/48/jira.png" width="50" height="auto"/>
-<img src="https://img.icons8.com/color/48/ibm.png" width="50" height="auto"/>
-
+<div class="iconos">
+    <img src="https://img.icons8.com/color/48/python--v1.png" width="50" height="auto">
+    <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="50" height="auto">
+    <img src="https://img.icons8.com/fluency/48/docker.png" width="50" height="auto">
+    <img src="https://img.icons8.com/color/48/jenkins.png" width="50" height="auto">
+    <img src="https://img.icons8.com/color/48/git.png" width="50" height="auto">
+    <img src="https://img.icons8.com/glyph-neue/64/github.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/color/48/kubernetes.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/ios-filled/50/sql.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/color/48/oracle-logo.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/fluency/48/confluence.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/color/48/trello.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/color/48/jira.png" width="50" height="auto"/>
+    <img src="https://img.icons8.com/color/48/ibm.png" width="50" height="auto"/>
+</div>
